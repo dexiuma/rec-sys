@@ -1,2 +1,2 @@
 # rec-sys
-rec sys
+Abstract—In this project, our team will develop a recommendation system based on different community detection-based algorithms and compare them with a graph neural network-based (GNN) recommendation system using various metrics like normalized discounted cumulative gain, precision & recall, and time complexity. In phase 1, our team will implement the different community detection algorithms with real social network datasets. In phase 2, using the outputs from phase 1 we will develop the community-based recommendation systems. Next, we will implement a GNN-based recommendation system and compare it with our recommendation system using various metrics mentioned above.
